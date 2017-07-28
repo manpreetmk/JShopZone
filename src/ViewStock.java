@@ -25,7 +25,7 @@ public class ViewStock extends javax.swing.JFrame
 
     public ViewStock(String productName, String productID)
     {
-
+            //View Stock
         this.productName = productName;
         this.productID = productID;
         initComponents();
